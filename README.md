@@ -4,10 +4,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: C/C++/JavaScript/Python/Anaconda/MySQL/Tensorflow/Pasndas/Numpy/Keras
 
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sounak-singh)  
+- 🔭 I’m currently a student studying AI.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sounak-singh)](https://github.com/ryo-ma/github-profile-trophy)
 
