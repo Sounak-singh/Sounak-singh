@@ -10,8 +10,6 @@ Skills: C/C++/JavaScript/Python/Anaconda/MySQL/Tensorflow/Pasndas/Numpy/Keras
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sounak-singh&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sounak-singh)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Sounak-singh)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sounak-singh)  
